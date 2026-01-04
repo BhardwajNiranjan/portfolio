@@ -54,6 +54,7 @@ Certified **EC-Council CEH v13 and Cisco CCNA**, with practical exposure to Defe
 - AWS (IAM Roles & Policies)
 - Docker
 - Git & GitHub
+- Virtualization
 
 ---
 
@@ -64,7 +65,7 @@ Certified **EC-Council CEH v13 and Cisco CCNA**, with practical exposure to Defe
 - ISO 27001 Controls
 - Asset Inventory Management
 - User Supports
-- Bash & Powershell Scripting
+- WSL, Bash & Powershell Scripting
 - Diagnostics & Troubleshooting  
 - Remote User Support
 
