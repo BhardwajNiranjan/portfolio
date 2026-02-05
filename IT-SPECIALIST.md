@@ -1,7 +1,9 @@
 PROFESSIONAL SUMMARY
 Results-driven System Administrator and IT Support Specialist with 3+ years of hands-on experience managing enterprise IT infrastructure, Active Directory environments, endpoint security, and user support operations. Strong expertise in system hardening, access management, IT audits, and network security. Proven ability to reduce security risks, improve system availability, and support end users efficiently in Windows and Linux environments. ATS-friendly profile aligned with System Administrator, IT Support, IT Specialist, and IT Admin roles.
 
+
 CORE TECHNICAL SKILLS
+
 System Administration & Identity Management
 
 Active Directory (AD), OU Management, User & Group Management
@@ -71,7 +73,9 @@ Vulnerability Assessment & Risk Identification
 ISO 27001 Controls & IT Compliance Audits
 
 
+
 PROFESSIONAL EXPERIENCE
+
 
 System Administrator / IT Infra
 
@@ -94,7 +98,9 @@ Conducted IT infrastructure audits and vulnerability scans using Nessus, Nikto, 
 Provided remote technical support via RDP, AnyDesk, and TeamViewer
 
 
+
 KEY PROJECTS
+
 1. Secure FTP Server Implementation
 
 Configured a secure FTP server with limited read-only permissions
